@@ -1,5 +1,5 @@
 import React from 'react';
-import { FiArrowRight, FiPrinter } from 'react-icons/fi';
+import { FiArrowRight } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
 import '../styles/pages/landing.css';
